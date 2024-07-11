@@ -1,1 +1,1 @@
-Throughput Junkie
+Hello! I am a Data Engineer focused on building distrubted data systems. With a background in computer science, machine learning, and system design, I love solving the challenges inherit in delivering performant data solutions at scale. A generalist, I have some experience across the data lifecycle, from ingestion to inference.
